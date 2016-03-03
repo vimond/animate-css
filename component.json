@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "component/classes": "*",
+    "component/classes": "1.2.4",
     "ecarter/css-emitter": "*",
     "component/once": "*",
     "eugenicsarchivesca/has-css-animations": "*"
