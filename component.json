@@ -2,6 +2,9 @@
   "name": "animate-css",
   "repo": "vimond/animate-css",
   "description": "a jquery like api for animations, but for css",
+  "remotes": [
+    "http://vimond:components@components.vimond.com"
+  ],
   "version": "0.1.1",
   "keywords": [],
   "dependencies": {
