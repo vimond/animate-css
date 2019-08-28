@@ -1,6 +1,6 @@
 {
   "name": "animate-css",
-  "repo": "bmcmahen/animate-css",
+  "repo": "vimond/modal-view",
   "description": "a jquery like api for animations, but for css",
   "version": "0.0.1",
   "keywords": [],
