@@ -1,7 +1,4 @@
-var hasAnimations = require('has-css-animations')
-  , classes = require('classes')
-  , cssEvent = require('css-emitter')
-  , once = require('once');
+var hasAnimations = false;
 
 // API:
 // animate(el, 'fadeOutRight', function(el){

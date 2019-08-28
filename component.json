@@ -7,8 +7,7 @@
   "dependencies": {
     "component/classes": "1.2.4",
     "ecarter/css-emitter": "*",
-    "component/once": "*",
-    "eugenicsarchivesca/has-css-animations": "*"
+    "component/once": "*"
   },
   "development": {},
   "license": "MIT",
